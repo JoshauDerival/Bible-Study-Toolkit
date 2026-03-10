@@ -26,7 +26,7 @@ This is a public domain Bible project, perfect for learning, personal use, or op
 -Expandable: Easy to add reading plans, memory training, and favorites.
 
 ##🛠️ Project Structure
-
+```
 Bible-Study-Toolkit
 │
 ├── app
@@ -42,7 +42,7 @@ Bible-Study-Toolkit
 │   └── App.js                 # Navigation & main app
 │
 └── package.json
-
+```
 ##🚀 Getting Started
 
 Prerequisites
