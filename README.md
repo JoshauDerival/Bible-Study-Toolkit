@@ -1,4 +1,4 @@
-##📖 Bible Study Toolkit##
+## 📖 Bible Study Toolkit
 
 A mobile Bible study app built with React Native and the King James Version (KJV) Bible.
 It allows you to:
@@ -13,7 +13,7 @@ It allows you to:
 
 This is a public domain Bible project, perfect for learning, personal use, or open-source contributions.
 
-##⚡ Features##
+## ⚡ Features
 
 -Daily Verse: Randomly displays a verse each day.
 
@@ -25,7 +25,7 @@ This is a public domain Bible project, perfect for learning, personal use, or op
 
 -Expandable: Easy to add reading plans, memory training, and favorites.
 
-##🛠️ Project Structure##
+## 🛠️ Project Structure
 ```
 Bible-Study-Toolkit
 │
@@ -43,7 +43,7 @@ Bible-Study-Toolkit
 │
 └── package.json
 ```
-##🚀 Getting Started##
+## 🚀 Getting Started
 
 Prerequisites
 
