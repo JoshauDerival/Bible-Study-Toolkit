@@ -25,6 +25,11 @@ This is a public domain Bible project, perfect for learning, personal use, or op
 
 -Expandable: Easy to add reading plans, memory training, and favorites.
 
+-Smart Search: Be able to search for a word or topic in the bible. 
+
+-Verse Connections: Show cross references between books. 
+
+
 ## 🛠️ Project Structure
 ```
 Bible-Study-Toolkit
